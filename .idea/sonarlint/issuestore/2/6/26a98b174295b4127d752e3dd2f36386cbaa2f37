@@ -1,0 +1,9 @@
+
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Í¡®³8î²ÿšæ1
+L	java:S106"+Replace this use of System.out by a logger.(¼ö¡Ùþÿÿÿÿ8ï²ÿšæ1
+G	java:S106"+Replace this use of System.out by a logger.(–œ•à8´ß™ªæ1
+Q
+java:S1128"4Remove this unused import 'com.ulas.entity.Manager'.(ð´ŒÌ8»×‡ªæ1
+Q
+java:S1128"4Remove this unused import 'com.ulas.entity.Officer'.(à·Ðœ8µß™ªæ1

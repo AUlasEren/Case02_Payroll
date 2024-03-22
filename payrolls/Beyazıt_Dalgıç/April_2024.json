@@ -1,0 +1,12 @@
+{
+    "payroll": "April 2024",
+    "employee": {
+        "name": "Beyazıt Dalgıç",
+        "paymentDetails": {
+            "totalPayment": "\u20ba48.000,00",
+            "basePayment": "\u20ba48.000,00",
+            "overtimePayment": "\u20ba0,00"
+        },
+        "hoursWorked": 0
+    }
+}
